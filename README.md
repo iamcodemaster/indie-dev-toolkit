@@ -1,4 +1,4 @@
-# 🚀 Indie Dev Toolkit
+# ð Indie Dev Toolkit
 
 A curated list of essential tools and resources for indie hackers, solo founders, and bootstrapped startups building both web and mobile apps. Whether you're launching your MVP or scaling your product, this list offers free and freemium options to help you succeed without breaking the bank!
 
@@ -7,23 +7,23 @@ A curated list of essential tools and resources for indie hackers, solo founders
 > **Disclaimer:** This list is a carefully curated selection of tools I've personally tested and found valuable. It prioritizes free and freemium options, excluding tools without free tiers. While not exhaustive, it aims to highlight the most useful resources for indie hackers.
 <!-- prettier-ignore-end -->
 
-## 📚 Table of Contents
+## ð Table of Contents
 
-- [🛠️ Development Infrastructure](#️-development-infrastructure)
-- [🔐 Authentication & Authorization](#-authentication--authorization)
-- [🗄️ Databases & Data Management](#️-databases--data-management)
-- [📝 Content Management Systems (CMS)](#-content-management-systems-cms)
-- [🏗️ Website Builders & Frameworks](#️-website-builders--frameworks)
-- [🤖 AI-Powered Development](#-ai-powered-development)
-- [🎨 Design & UI](#-design--ui)
-- [📊 Analytics & Monitoring](#-analytics--monitoring)
-- [💰 Payments & Billing](#-payments--billing)
-- [📣 Marketing & Growth](#-marketing--growth)
-- [📝 Project & Product Management](#-project--product-management)
+- [ð ï¸ Development Infrastructure](#ï¸-development-infrastructure)
+- [ð Authentication & Authorization](#-authentication--authorization)
+- [ðï¸ Databases & Data Management](#ï¸-databases--data-management)
+- [ð Content Management Systems (CMS)](#-content-management-systems-cms)
+- [ðï¸ Website Builders & Frameworks](#ï¸-website-builders--frameworks)
+- [ð¤ AI-Powered Development](#-ai-powered-development)
+- [ð¨ Design & UI](#-design--ui)
+- [ð Analytics & Monitoring](#-analytics--monitoring)
+- [ð° Payments & Billing](#-payments--billing)
+- [ð£ Marketing & Growth](#-marketing--growth)
+- [ð Project & Product Management](#-project--product-management)
 
 ---
 
-## 🛠️ Development Infrastructure
+## ð ï¸ Development Infrastructure
 
 ### Overview
 
@@ -31,7 +31,7 @@ Tools for hosting, backend management, and deployment to help build and scale ap
 
 ### Backend & Hosting
 
-💎 **Top Free Pick**:
+ð **Top Free Pick**:
 
 - **[Netlify](https://www.netlify.com/)** - Free hosting for static sites and frontend frameworks (Free / $10/month).
 - **[Vercel](https://vercel.com/)** - Hosting platform optimized for frontend frameworks (Free / $20/month).
@@ -60,13 +60,13 @@ Tools for hosting, backend management, and deployment to help build and scale ap
 
 ---
 
-## 🔐 Authentication & Authorization
+## ð Authentication & Authorization
 
 ### Overview
 
 Authentication solutions to secure your applications.
 
-💎 **Top Free Pick**:
+ð **Top Free Pick**:
 
 - **[Clerk](https://clerk.com/)** - Complete user authentication system with pre-built UI components.
 - **[Supabase Auth](https://supabase.com/docs/reference/auth)** - Open-source authentication with integrated backend services.
@@ -77,13 +77,13 @@ Authentication solutions to secure your applications.
 
 ---
 
-## 🗄️ Databases & Data Management
+## ðï¸ Databases & Data Management
 
 ### Overview
 
 Databases and data management solutions to handle scaling data needs.
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with real-time features (Free / $25/month).
 - **[Neon](https://neon.tech/)** - Serverless Postgres with an excellent free tier (Free / $19/month).
@@ -106,9 +106,9 @@ Databases and data management solutions to handle scaling data needs.
 
 ---
 
-## 📝 Content Management Systems (CMS)
+## ð Content Management Systems (CMS)
 
-💎 **Top Free Pick**:
+ð **Top Free Pick**:
 
 - **[Keystatic](https://www.keystatic.com/)** - Simple headless CMS solution (Free ([Open Source](https://github.com/thinkmill/keystatic))).
 
@@ -119,13 +119,13 @@ Databases and data management solutions to handle scaling data needs.
 
 ---
 
-## 🏗️ Website Builders & Frameworks
+## ðï¸ Website Builders & Frameworks
 
 ### Overview
 
 Frameworks and tools for building websites efficiently.
 
-💎 **Top Free Pick**:
+ð **Top Free Pick**:
 
 - **[Makerkit](https://makerkit.dev/)** - MVP kit integrating best-in-class technologies (Next.js, Tailwind, Supabase, Stripe).
 
@@ -144,13 +144,13 @@ Frameworks and tools for building websites efficiently.
 
 ---
 
-## 🤖 AI-Powered Development
+## ð¤ AI-Powered Development
 
 ### Overview
 
 Tools that use AI to enhance development workflows (this may often change).
 
-💎 **Top Free Pick**:
+ð **Top Free Pick**:
 
 - **[v0](https://v0.dev/)** - AI-powered tool to generate web UI designs natural language input.
 
@@ -163,7 +163,7 @@ Tools that use AI to enhance development workflows (this may often change).
 
 ---
 
-## 🎨 Design & UI
+## ð¨ Design & UI
 
 ### Overview
 
@@ -171,7 +171,7 @@ Design resources to create attractive user interfaces.
 
 #### UI Components & Icons
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Lucide](https://lucide.dev/)** - Icon library with over 300 icons.
 - **[Simple Icons](https://simpleicons.org/)** - Icon library with over 1,500 icons.
@@ -186,13 +186,13 @@ Design resources to create attractive user interfaces.
 
 ---
 
-## 📊 Analytics & Monitoring
+## ð Analytics & Monitoring
 
 ### Overview
 
 Tools to monitor performance, analyze traffic, and track errors.
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Google Analytics](https://analytics.google.com/)** - The most widely-used web traffic analytics tool (Free but not privacy-focused).
 - **[Baselime](https://baselime.io/)** - Open-source observability platform focused on serverless apps (Free).
@@ -213,13 +213,13 @@ Tools to monitor performance, analyze traffic, and track errors.
 
 ---
 
-## 💰 Payments & Billing
+## ð° Payments & Billing
 
 ### Overview
 
 Payment solutions to manage subscriptions, invoices, and transactions.
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Stripe](https://stripe.com/en-ca)** - Comprehensive payment processing solution.
 
@@ -231,7 +231,7 @@ Payment solutions to manage subscriptions, invoices, and transactions.
 
 ---
 
-## 📣 Marketing & Growth
+## ð£ Marketing & Growth
 
 ### Overview
 
@@ -260,7 +260,7 @@ Gather tools that can help you market your product effectively and grow your aud
 
 ### Email Marketing
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Resend](https://resend.com/)** - Email API for developers to send transactional emails (Free / $20/month).
 
@@ -268,11 +268,11 @@ Gather tools that can help you market your product effectively and grow your aud
 | ------------------------------------ | ---------------------------------------------------------------- | ------------------------------------- |
 | [00](https://www.double-zero.cloud/) | Suite of growth tools for startups and small businesses.         | Free / Pre-order Pro                  |
 | [Loops](https://loops.so/)           | Email marketing platform for sending newsletters and promotions. | Free up to 1,000 contacts / $49/month |
-| [Wraps](https://wraps.dev/)           | Open-Source email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure. | Free / $19/month |
+| [Wraps](https://wraps.dev/)           | Open-Source email platform that sends through your AWS. Automations, templates, broadcastsâyou own the infrastructure. | Free / $19/month |
 
 ### SEO Tools
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Google Search Console](https://search.google.com/search-console)** - Free tool for monitoring and maintaining website presence in Google Search results.
 
@@ -282,13 +282,13 @@ Gather tools that can help you market your product effectively and grow your aud
 
 ---
 
-## 📝 Project & Product Management
+## ð Project & Product Management
 
 ### Overview
 
 Manage your projects efficiently with these tools designed for product teams.
 
-💎 **Top Free Picks**:
+ð **Top Free Picks**:
 
 - **[Linear](https://linear.app/)** - Streamlined issue tracking tool for software development teams (Free / $8/user/month).
 - **[Canny](https://canny.io/)** - Customer feedback, roadmap and changelog tool (Free / $79/month).
@@ -303,18 +303,18 @@ Manage your projects efficiently with these tools designed for product teams.
 
 ---
 
-If you found this list helpful, please consider **starring** ⭐ and **watching** 👀 the repository to stay updated!
+If you found this list helpful, please consider **starring** â­ and **watching** ð the repository to stay updated!
 
 ---
 
-## 💡 My Pro Tips for Indie Hackers
+## ð¡ My Pro Tips for Indie Hackers
 
 - Many tools offer extended free trials or startup programs. Always check their GitHub, Twitter, or community forums for special offers.
 - Combine free tiers strategically. You can often create a powerful stack without initial costs by leveraging free tiers across different tools.
 - Prioritize tools with clear upgrade paths. This allows you to start free and scale as your project grows.
 - Engage with tool communities. Many offer support, resources, and sometimes credits or discounts for active community members.
 
-## 🌟 Community Recommendations
+## ð Community Recommendations
 
 ### An example of my usual Stack
 
@@ -335,7 +335,7 @@ Here will be brief examples of how indie hackers have leveraged these tools to b
 
 **_Feel free to share your success stories with a list of tools you used and your project in the [discussions](https://github.com/thedaviddias/indie-dev-toolkit/discussions/categories/community-recommendations) section of this repository._**
 
-## ❓ Frequently Asked Questions
+## â Frequently Asked Questions
 
 1. Q: How often is this list updated?
    A: I aim to update this list monthly, you can always "watch" this repo to get notified of updates.
@@ -349,16 +349,18 @@ Here will be brief examples of how indie hackers have leveraged these tools to b
 4. Q: Have you tested all these tools?
    A: Not all of them! But I've tested a little bit more than half of them and I'm using some of them in my own projects. I've also used the free tiers of many of these tools to launch side projects or at my day job.
 
-## 🤝 Contributing
+## ð¤ Contributing
 
 Have you used any of these tools or have suggestions for others? Your experiences and insights are valuable!
 
 Feel free to check the [CONTRIBUTING](https://github.com/thedaviddias/indie-dev-toolkit/blob/main/CONTRIBUTING.md) file for more information.
 
-## 📣 Feedback
+## ð£ Feedback
 
 I'm always looking to improve this list. If you have any feedback, suggestions, or questions, please [open an issue](https://github.com/thedaviddias/indie-dev-toolkit/issues) or [start a discussion](https://github.com/thedaviddias/indie-dev-toolkit/discussions).
 
-## 📄 License
+## ð License
 
 This project is licensed under the terms of the [MIT license](https://github.com/thedaviddias/indie-dev-toolkit/blob/main/LICENCE). You are free to use, modify, and distribute this list in accordance with the license.
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
